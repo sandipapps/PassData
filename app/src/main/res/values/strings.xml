@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PassData</string>
+    <string name="contact">Contact Us</string>
+    <string name="form_name">Name</string>
+    <string name="form_email">Email</string>
+    <string name="form_button">Submit</string>
+    <string name="details">Your Details</string>
+</resources>
